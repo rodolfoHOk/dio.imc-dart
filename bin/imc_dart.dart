@@ -1,3 +1,5 @@
+import 'package:imc_dart/imc_dart.dart' as imc;
+
 void main(List<String> arguments) {
-  print('Hello world!');
+  imc.execute();
 }
