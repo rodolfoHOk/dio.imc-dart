@@ -1,2 +1,18 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Criando uma Calculadora de IMC Com Dart
+
+> DIO
+
+## Tecnologias
+
+- Dart
+- Testes de unidade
+
+## Rodar
+
+- requisito: dart ou flutter instalado
+- baixar este repositório
+- comando na pasta raiz deste projeto: dart run
+
+## Testes
+
+- comando na pasta raiz deste projeto: dart test
